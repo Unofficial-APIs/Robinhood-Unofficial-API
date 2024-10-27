@@ -1,4 +1,4 @@
-# Robinhood Integration
+# Robinhood Unofficial API
 
 This is an unofficial API for Robinhood. It allows you to interact with Robinhoods's internal APIs. 
 
